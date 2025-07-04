@@ -12,11 +12,12 @@
 ---
 
 ## 👨‍💻 Desenvolvedores
+Zumbi Devs
 
 ### Atualizações e Manutenção
 Modificada e atualizada por:
 
-- Volphz  
+
 - BkVini
 
 As modificações visam otimizar, adaptar e manter a base atualizada para uso em servidores modernos, respeitando sempre a estrutura e os créditos da equipe original.
