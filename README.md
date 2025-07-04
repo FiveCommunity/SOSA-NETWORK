@@ -97,8 +97,7 @@ Não é permitido remover os créditos dos autores.
 
 ---
 
-## 📸 Pré-visualizações
-
+## - 🗂 MODS [Mods Sosa](https://drive.google.com/file/d/1ZYd_zCNJUej9NDad8Qfj5l8S8bp0G3LL/view?usp=sharing) 
 ---
 
 <p align="center">
